@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Converter.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="comport" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM1</Value>
+    </Setting>
+    <Setting Name="copy" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="fcolor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">42, 42, 42</Value>
+    </Setting>
+    <Setting Name="bcolor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Gainsboro</Value>
+    </Setting>
+    <Setting Name="company" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Kompania</Value>
+    </Setting>
+    <Setting Name="row2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Adresa 1</Value>
+    </Setting>
+    <Setting Name="row3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Adresa 2</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
